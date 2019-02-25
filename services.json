@@ -5,25 +5,25 @@
 		"firstBus":"7.45AM",
 		"lastBus":"4.45PM",
 		"schedule":"8.15AM,8.45AM,9.15AM"
-	}
+	},
 	{
 		"routeNumber":"234(UP)",
 		"firstBus":"7.50AM",
 		"lastBus":"11.00PM",
 		"schedule":"Every 10 minutes"
-	}
+	},
 	{
 		"routeNumber":"223(UP)",
 		"firstBus":"6.30AM",
 		"lastBus":"10.00PM",
 		"schedule":"Every 10 minutes"
-	}
+	},
 	{
 		"routeNumber":"AC1(UP)",
 		"firstBus":"8:00AM",
 		"lastBus":"6:00PM",
 		"schedule":"Every 25 minutes"
-	}
+	},
 	{
 		"routeNumber":"ST6(UP)",
 		"firstBus":"6.45AM",
