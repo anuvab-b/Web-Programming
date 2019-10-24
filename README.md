@@ -5,6 +5,8 @@ Web Programming Repo
 HTML5
 CSS3
 Javascript & AJAX
-PHP
+PHP and MySQL Connection
 Servlet and JSP
-XML
+To be added soon:
+XML parse
+JAX-WS
